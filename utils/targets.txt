@@ -27,6 +27,13 @@ GoogleGstatic         = "https://www.gstatic.com"
 CloudflareWeb         = "https://www.cloudflare.com"
 CloudflareCDN         = "https://cdnjs.cloudflare.com"
 
+### Telegram
+TelegramMain          = "https://t.me"
+
+### Roblox
+RobloxMain            = "https://roblox.com"
+RobloxCdn             = "https://www.roblox.com/js/utilities/bundleVerifier.js"
+
 ### Public DNS (PING-only)
 CloudflareDNS1111     = "PING:1.1.1.1"
 CloudflareDNS1001     = "PING:1.0.0.1"
