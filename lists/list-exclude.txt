@@ -48,5 +48,3 @@ spaceidle.xyz
 gamejolt.com
 gjcdn.net
 nuget.org
-
-jackboxgames.com
