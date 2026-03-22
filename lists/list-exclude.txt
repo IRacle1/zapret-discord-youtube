@@ -45,6 +45,4 @@ marketplace.visualstudio.com
 pinterest.com
 docker.io
 spaceidle.xyz
-gamejolt.com
-gjcdn.net
 nuget.org
