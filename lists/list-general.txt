@@ -45,6 +45,7 @@ betterttv.net
 7tv.app
 7tv.io
 localizeapi.com
+klipy.com
 
 modrinth.com
 edge.forgecdn.net
