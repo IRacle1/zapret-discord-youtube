@@ -117,3 +117,4 @@ pinterest.com
 docker.io
 spaceidle.xyz
 nuget.org
+zoom.us
